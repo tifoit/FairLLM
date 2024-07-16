@@ -15,13 +15,15 @@ Our Bias mitigation processes consists of two parts-- (a) Self-BMIL: LLMs mitiga
 
 ## Coming Soon
 
-We are finalizing the preparation of our resources and will make them available shortly. Here's what you can expect:
+We are in the final stages of preparing our resources and will be making them available shortly. Here's a preview of what you can expect:
 
-- **Model and Code**: Access the FairLLM model and its source code.
-- **Training Weights**: Download pre-trained weights for immediate use.
-- **Datasets**: Utilize our specialized preference datasets for your research on age biases.
+- **Model and Code**: Gain access to the FairLLM model and its complete source code, designed to address and mitigate biases in AI systems.
+- **Training Weights**: Download the pre-trained weights for the FairLLM model, allowing you to hit the ground running with immediate application.
+- **Datasets**: Delve into our specialized preference datasets tailored for research on age biases. Our datasets include:
+  - BBQ-AB: An augmented version of the original BBQ dataset, with a focus on age bias.
+  - Kamruzzaman-AB: A dataset specifically curated to enhance the representation of age bias, ensuring a comprehensive evaluation framework.
 
-Stay tuned for updates! We are committed to fostering further research in this critical area and look forward to seeing how our contributions can support and inspire your work.
+Stay tuned for the release of these valuable resources to advance your work in the field of AI ethics and bias mitigation.
 
 ## Contact and Collaboration
 
