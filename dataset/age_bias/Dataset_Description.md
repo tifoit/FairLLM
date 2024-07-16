@@ -13,7 +13,7 @@ This directory contains two datasets specifically curated to support research in
 - **Format**: Organized to ensure compatibility with various machine learning (including LLM) and data analysis tools.
 
 ## Current Status
-Our paper detailing the methodology and findings related to these datasets is currently under submission for peer review. We are committed to sharing our research to foster a deeper understanding of age biases in AI.
+Our paper titled "Mitigating Age-Related Bias in Large Language Models" details the methodology and findings related to these datasets and is currently under submission for peer review. We are committed to sharing our research to foster a deeper understanding of age biases in AI and to promote the development of responsible AI.
 
 ## Ongoing Development
 In order to provide the best possible service to the academic community, we are continuously working on expanding and refining these datasets. Our goal is to offer a rich resource that can significantly contribute to the study of AI ethics and bias.
