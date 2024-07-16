@@ -13,6 +13,13 @@ Our Bias mitigation processes consists of two parts-- (a) Self-BMIL: LLMs mitiga
 - **Training Weights**: Pre-trained weights to facilitate quick implementation and testing.
 - **Preference Datasets**: Carefully curated datasets focusing on age-related biases, essential for developing and evaluating fair machine learning models.
 
+## Detailed Dataset Description
+
+For those interested in a deeper understanding of our datasets, we have prepared detailed documents:
+
+- **[Dataset_Description.md](dataset/age_bias/Dataset_Description.md)**: Provides an overview of the BBQ-AB and Kamruzzaman-AB datasets, their current status, and ongoing enhancements.
+- **[Dataset_Description_Document.md](dataset/age_bias/Dataset_Description_Document.md)**: An in-depth guide that is currently under development, which will offer comprehensive insights into the datasets.
+
 ## Coming Soon
 
 We are in the final stages of preparing our resources and will be making them available shortly. Here's a preview of what you can expect:
@@ -20,8 +27,8 @@ We are in the final stages of preparing our resources and will be making them av
 - **Model and Code**: Gain access to the FairLLM model and its complete source code, designed to address and mitigate biases in AI systems.
 - **Training Weights**: Download the pre-trained weights for the FairLLM model, allowing you to hit the ground running with immediate application.
 - **Datasets**: Delve into our specialized preference datasets tailored for research on age biases. Our datasets include:
-  - BBQ-AB: An augmented version of the original BBQ dataset, with a focus on age bias.
-  - Kamruzzaman-AB: A dataset specifically curated to enhance the representation of age bias, ensuring a comprehensive evaluation framework.
+  - **BBQ-AB**: An augmented version of the original BBQ dataset, with a focus on age bias.
+  - **Kamruzzaman-AB**: A dataset specifically curated to enhance the representation of age bias, ensuring a comprehensive evaluation framework.
 
 Stay tuned for the release of these valuable resources to advance your work in the field of AI ethics and bias mitigation.
 
