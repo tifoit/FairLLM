@@ -27,7 +27,7 @@ While the datasets are currently available for use, the full dataset description
 
 ### Contact Information
 
-For any queries or feedback regarding the datasets or the development of this document, please feel free to contact us at [insert contact email or link].
+For any queries or feedback regarding the datasets or the development of this document, please feel free to contact us at [liuzhuang@dufe.edu.cn].
 
 ---
 
