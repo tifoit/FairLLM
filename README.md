@@ -1,6 +1,10 @@
 # Welcome to the FairLLM Project
 
-We are excited to introduce our FairLLM model, developed to address and mitigate age-related biases in machine learning. Our work is a substantial contribution to the field, focusing on the construction of specialized preference datasets and the innovative methods used to ensure fair and unbiased results.
+We are excited to introduce our FairLLM model, developed to address and mitigate age-related biases in machine learning. Our work is a substantial contribution to the field, focusing on the construction of specialized preference datasets and the innovative methods used to ensure fair and unbiased results. Our main framework is illustrated below:
+
+![FairLLM Framework](figure/frame.png)
+
+Our Bias mitigation processes consists of two parts-- (a) Self-BMIL: LLMs mitigate bias in responses through self-refinement; (b) Coop-BMIL: LLMs achieve fairer responses through debates.
 
 ## What's Included
 
@@ -21,4 +25,4 @@ Stay tuned for updates! We are committed to fostering further research in this c
 
 ## Contact and Collaboration
 
-For questions, feedback, or collaboration opportunities, please reach out to us. We are eager to connect with researchers and practitioners interested in studying and mitigating age-related biases.
+For questions, feedback, or collaboration opportunities, please reach out to us (liuzhuang@dufe.edu.cn). We are eager to connect with researchers and practitioners interested in studying and mitigating age-related biases.
